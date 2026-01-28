@@ -1,1 +1,2 @@
-VERSION SEVEN - THIS IS A NEW CHANGE
+notepad note.txt
+
